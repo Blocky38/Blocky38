@@ -3,8 +3,4 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-Blocky38/Blocky38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![while_alive_banner](https://raw.githubusercontent.com/Blocky38/Blocky38/master/while_alive_banner_2000_800.png)
