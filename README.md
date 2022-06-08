@@ -8,7 +8,7 @@
 
 <center><h1>Stats</h1></center>
 
-[![BlockTheDev's github stats](https://github-readme-stats.vercel.app/api?username=blocky38&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/mallowigi)
+[![BlockTheDev's github stats](https://github-readme-stats.vercel.app/api?username=BlockyTheDev&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/mallowigi)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlockyTheDev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
